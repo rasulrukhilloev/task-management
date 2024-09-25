@@ -1,6 +1,6 @@
 RUN docker-compose up --build -d
 
-Backend port: 3000
+Backend port: 3000 \n
 DB admin(mongo-express docker image): 8081
 
 # API Endpoints
